@@ -1,3 +1,3 @@
 adder:
-	iverliog Adder.v
+	iverilog Adder.v
 	vvp a.out
